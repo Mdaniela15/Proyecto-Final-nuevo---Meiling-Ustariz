@@ -1,11 +1,19 @@
 {
   "name": "proyecto-final-nuevo---meiling-ustariz",
   "version": "1.0.0",
-  "description": "",
   "main": "javascript.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdaniela15/Proyecto-Final-nuevo---Meiling-Ustariz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mdaniela15/Proyecto-Final-nuevo---Meiling-Ustariz/issues"
+  },
+  "homepage": "https://github.com/Mdaniela15/Proyecto-Final-nuevo---Meiling-Ustariz#readme",
+  "description": ""
 }
