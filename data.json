@@ -1,0 +1,223 @@
+[
+    {
+        "id": 1,
+        "nombre": "A dos metros de ti",
+        "categoria": "romance", 
+        "precio": 1000,
+        "stock": 10,
+        "img": "./img/a-dos-metros-de-ti.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Bajo la misma estrella",
+        "categoria": "romance",
+        "precio": 2300,
+        "stock": 10,
+        "img": "./img/bajo-la-misma-estrella.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Orgullo y Prejuicio",
+        "categoria": "romance",
+        "precio": 1330,
+        "stock": 10,
+        "img": "./img/orgullo-y-prejuicio.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Almendra",
+        "categoria": "romance",
+        "precio": 2140,
+        "stock": 10,
+        "img": "./img/almendra.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Un cuento perfecto",
+        "categoria": "romance",
+        "precio": 1100,
+        "stock": 10,
+        "img": "./img/un-cuento-perfecto.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Blue Jeans",
+        "categoria": "romance",
+        "precio": 1340,
+        "stock": 10,
+        "img": "./img/blue-jeans-promesa-julia-a.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Boulevard",
+        "categoria": "romance",
+        "precio": 2145,
+        "stock": 10,
+        "img": "./img/boulevard.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Nosotros en la luna",
+        "categoria": "romance",
+        "precio": 4545,
+        "stock": 10,
+        "img": "./img/nosotros-en-la-luna.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Eleanor y Park",
+        "categoria": "romance",
+        "precio": 1145,
+        "stock": 10,
+        "img": "./img/Eleanor-y-Park.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Finalmente soy yo",
+        "categoria": "romance",
+        "precio": 1145,
+        "stock": 10,
+        "img": "./img/finalmente-soy-yo.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "No oigo a los niños llora",
+        "categoria": "theriller",
+        "precio": 2145,
+        "stock": 10,
+        "img": "./img/no-oigo-a-los-niños-jugar.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "La chica del tren",
+        "categoria": "theriller",
+        "precio": 1100,
+        "stock": 10,
+        "img": "./img/la-chica-del-tren.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Bajo el barro",
+        "categoria": "theriller",
+        "precio": 1400,
+        "stock": 10,
+        "img": "./img/bajo-el-barro.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "La guerra de Hart",
+        "categoria": "theriller",
+        "precio": 2400,
+        "stock": 10,
+        "img": "./img/la-guerra-de-hart.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "La pareja de al lado",
+        "categoria": "theriller",
+        "precio": 1200,
+        "stock": 10,
+        "img": "./img/la-pareja-de-al-lado.jpg"
+    },
+    {
+        "id": 16,
+        "nombre": "El nido de la araña",
+        "categoria": "theriller",
+        "precio": 1200,
+        "stock": 10,
+        "img": "./img/el-nido-de-la-araña.jpg"
+    },
+    {
+        "id": 17,
+        "nombre": "Un pequeño favor",
+        "categoria": "theriller",
+        "precio": 2100,
+        "stock": 10,
+        "img": "./img/un-pequeño-favor.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "El apartamento olvidado",
+        "categoria": "theriller",
+        "precio": 1150,
+        "stock": 10,
+        "img": "./img/el-apartamento-olvidado.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Donde habita el miedo",
+        "categoria": "theriller",
+        "precio": 2250,
+        "stock": 10,
+        "img": "./img/donde-habita-el-miedo.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Harry Potter y la piedra filosofal",
+        "categoria": "fantastica",
+        "precio": 4250,
+        "stock": 10,
+        "img": "./img/fant1.jpg"
+    },
+    {
+        "id": 21,
+        "nombre": "El camino de los reyes",
+        "categoria": "fantastica",
+        "precio": 1150,
+        "stock": 10,
+        "img": "./img/fant2.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Jonathan Strange y el señor Norrell",
+        "categoria": "fantastica",
+        "precio": 2100,
+        "stock": 10,
+        "img": "./img/fant3.jpg"
+    },
+    {
+        "id": 23,
+        "nombre": "Harry Potter y el prisionero de Azkaban",
+        "categoria": "fantastica",
+        "precio": 2500,
+        "stock": 10,
+        "img": "./img/fant4.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "El sabueso de los Baskerville",
+        "categoria": "misterio",
+        "precio": 1100,
+        "stock": 10,
+        "img": "./img/mist1.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "El halcón maltés",
+        "categoria": "misterio",
+        "precio": 1400,
+        "stock": 10,
+        "img": "./img/mist3.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Estudio en escarlata",
+        "categoria": "misterio",
+        "precio": 2400,
+        "stock": 10,
+        "img": "./img/mist2.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Reina Roja",
+        "categoria": "misterio",
+        "precio": 1200,
+        "stock": 10,
+        "img": "./img/mist4.jpg"
+    }
+    
+    
+    
+    
+    
+]
